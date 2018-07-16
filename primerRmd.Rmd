@@ -25,15 +25,15 @@ summary(cars)
 p <- c(10,50,100,1000)
 summary(p)
 
-shannon <- function(species)
-{
-prop <- species/sum(species)#calcula proporciones  
+#shannon <- function(species)
+#{
+#prop <- species/sum(species)#calcula proporciones  
   
--sum(prop*log(prop))#calcula shannon
-# otra salida
-#s=-sum(prop*log(prop))
-#return(s)
-}
+#-sum(prop*log(prop))#calcula shannon
+      # otra salida
+      #s=-sum(prop*log(prop))
+      #return(s)
+#}
 shannon(p)
 ```
 
