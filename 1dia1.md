@@ -28,3 +28,8 @@ Encabezado Tabla  | Segundo Encabezado
 Celda de tabla    | Celda 2
 Celda 3           | Celda 4 
 
+
+shannon <- function(species)
+{
+
+}
