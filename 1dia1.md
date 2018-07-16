@@ -22,3 +22,9 @@ HolaHolaHolaHolaHolaHolaHolaHolaHolaHolaHolaHolaHolaHolaHolaHolaHolaHolaHolaHola
 
 git config --global user.email "you@example.com"
 git config --global user.name "Your Name"
+
+Encabezado Tabla  | Segundo Encabezado
+----------------- | -------------------
+Celda de tabla    | Celda 2
+Celda 3           | Celda 4 
+
